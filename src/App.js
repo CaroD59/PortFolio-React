@@ -28,12 +28,12 @@ function App() {
   }, []);
 
   return (
-    <Router>
+    <Router basename='/Portfolio-React'>
       <Preloader load={load} />
       <div className='App' id={load ? 'no-scroll' : 'scroll'}>
         <Navbar />
         <ScrollToTop />
-        <Routes basename='/Portfolio-React'>
+        <Routes>
           <Route path='/' element={<Home />} />
           <Route path='/project' element={<Projects />} />
           <Route path='/about' element={<About />} />
