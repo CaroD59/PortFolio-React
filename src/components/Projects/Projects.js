@@ -100,7 +100,7 @@ function Projects() {
               isBlog={false}
               title="Adopte un Dev'"
               description='Adopt a Dev is the first Wild Code School project that I did as a Web Developer. Made in HTML, CSS, Javascript, it allows recruiters to view profiles of web developers and to be able to contact them for possible hiring.'
-              link='https://github.com/CaroD59/adopte-un-dev'
+              link='https://carod59.github.io/adopte-un-dev/'
             />
           </Col>
         </Row>
