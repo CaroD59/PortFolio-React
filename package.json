@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://CaroD59.github.io/Portfolio-React",
+  "homepage": "https://carod59.github.io/Portfolio-React",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
