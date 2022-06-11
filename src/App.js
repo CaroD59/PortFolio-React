@@ -33,7 +33,7 @@ function App() {
       <div className='App' id={load ? 'no-scroll' : 'scroll'}>
         <Navbar />
         <ScrollToTop />
-        <Routes>
+        <Routes basename='/Portfolio-React'>
           <Route path='/' element={<Home />} />
           <Route path='/project' element={<Projects />} />
           <Route path='/about' element={<About />} />
