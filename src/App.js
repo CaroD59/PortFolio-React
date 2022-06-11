@@ -28,7 +28,7 @@ function App() {
   }, []);
 
   return (
-    <Router basename='/Portfolio-React'>
+    <Router basename={window.location.pathname || ''}>
       <Preloader load={load} />
       <div className='App' id={load ? 'no-scroll' : 'scroll'}>
         <Navbar />
