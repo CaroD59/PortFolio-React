@@ -49,7 +49,7 @@ function Projects() {
               isBlog={false}
               title='Compass Education Limited'
               description='Professional PHP project for Compass Education Limited with an authentication and user management system, a blog and a contact form. Compass is a company based in Hong-Kong which offers online foreign language courses. A next version will be made in Laravel.'
-              link='https://github.com/Compass-Education-Limited/Compass-Website'
+              link='https://comedultd.com/'
             />
           </Col>
 
