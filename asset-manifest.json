@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio-React/static/css/main.2573b840.css",
-    "main.js": "/Portfolio-React/static/js/main.7ce7a6a8.js",
+    "main.js": "/Portfolio-React/static/js/main.a5c8dbeb.js",
     "static/js/415.4d6acbeb.chunk.js": "/Portfolio-React/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio-React/static/js/787.1ed0c42c.chunk.js",
     "static/media/adopte.png": "/Portfolio-React/static/media/adopte.246820c8a02e8970199a.png",
@@ -9,7 +9,7 @@
     "static/media/bioshock.png": "/Portfolio-React/static/media/bioshock.1fed33e931f872ded71f.png",
     "static/media/compass.png": "/Portfolio-React/static/media/compass.9d8aa7bcaf9f7b23503a.png",
     "static/media/usg.png": "/Portfolio-React/static/media/usg.ca01078f59dbd1aabe4b.png",
-    "static/media/CarolineDorchies.pdf": "/Portfolio-React/static/media/CarolineDorchies.c75d819b803bdd872b1c.pdf",
+    "static/media/CarolineDorchies.pdf": "/Portfolio-React/static/media/CarolineDorchies.2cc37baacd3a1f33c5ea.pdf",
     "static/media/poke.png": "/Portfolio-React/static/media/poke.7f3ae6ae43e1a9688f5e.png",
     "static/media/home-main.svg": "/Portfolio-React/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/Portfolio-React/static/media/about.aee0f771fbfc1e7b8fa8.png",
@@ -20,12 +20,12 @@
     "static/media/pre.svg": "/Portfolio-React/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/Portfolio-React/index.html",
     "main.2573b840.css.map": "/Portfolio-React/static/css/main.2573b840.css.map",
-    "main.7ce7a6a8.js.map": "/Portfolio-React/static/js/main.7ce7a6a8.js.map",
+    "main.a5c8dbeb.js.map": "/Portfolio-React/static/js/main.a5c8dbeb.js.map",
     "415.4d6acbeb.chunk.js.map": "/Portfolio-React/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio-React/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2573b840.css",
-    "static/js/main.7ce7a6a8.js"
+    "static/js/main.a5c8dbeb.js"
   ]
 }
