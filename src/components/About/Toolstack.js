@@ -8,7 +8,11 @@ import {
 } from 'react-icons/si';
 import { DiNpm } from 'react-icons/di';
 import { FiFigma } from 'react-icons/fi';
-import { SiAdobeillustrator, SiAdobephotoshop } from 'react-icons/si';
+import {
+  SiAdobeillustrator,
+  SiAdobephotoshop,
+  SiFilezilla,
+} from 'react-icons/si';
 
 function Toolstack() {
   return (
@@ -27,6 +31,9 @@ function Toolstack() {
       </Col>
       <Col xs={4} md={2} className='tech-icons'>
         <FiFigma />
+      </Col>
+      <Col xs={4} md={2} className='tech-icons'>
+        <SiFilezilla />
       </Col>
       <Col xs={4} md={2} className='tech-icons'>
         <SiAdobephotoshop />
