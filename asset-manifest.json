@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio-React/static/css/main.2573b840.css",
-    "main.js": "/Portfolio-React/static/js/main.a5c8dbeb.js",
+    "main.js": "/Portfolio-React/static/js/main.eae21fa4.js",
     "static/js/415.4d6acbeb.chunk.js": "/Portfolio-React/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio-React/static/js/787.1ed0c42c.chunk.js",
     "static/media/adopte.png": "/Portfolio-React/static/media/adopte.246820c8a02e8970199a.png",
@@ -13,19 +13,21 @@
     "static/media/poke.png": "/Portfolio-React/static/media/poke.7f3ae6ae43e1a9688f5e.png",
     "static/media/home-main.svg": "/Portfolio-React/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/Portfolio-React/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/pip.png": "/Portfolio-React/static/media/pip.4e0be56a17a2386365a6.png",
     "static/media/wishlist.png": "/Portfolio-React/static/media/wishlist.13b205a9e32cd568cc3c.png",
     "static/media/vault.png": "/Portfolio-React/static/media/vault.4bb2f3b756d211662520.png",
     "static/media/home-bg.jpg": "/Portfolio-React/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/react.png": "/Portfolio-React/static/media/react.c6131372057a9d380653.png",
     "static/media/avatar.png": "/Portfolio-React/static/media/avatar.0f71105c6af931e2c54c.png",
     "static/media/pre.svg": "/Portfolio-React/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/Portfolio-React/index.html",
     "main.2573b840.css.map": "/Portfolio-React/static/css/main.2573b840.css.map",
-    "main.a5c8dbeb.js.map": "/Portfolio-React/static/js/main.a5c8dbeb.js.map",
+    "main.eae21fa4.js.map": "/Portfolio-React/static/js/main.eae21fa4.js.map",
     "415.4d6acbeb.chunk.js.map": "/Portfolio-React/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio-React/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2573b840.css",
-    "static/js/main.a5c8dbeb.js"
+    "static/js/main.eae21fa4.js"
   ]
 }
