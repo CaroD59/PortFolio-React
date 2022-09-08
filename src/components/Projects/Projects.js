@@ -10,6 +10,8 @@ import poke from '../../Assets/Projects/poke.png';
 import usg from '../../Assets/Projects/usg.png';
 import wishlist from '../../Assets/Projects/wishlist.png';
 import adopte from '../../Assets/Projects/adopte.png';
+import react from '../../Assets/Projects/react.png';
+import pip from '../../Assets/Projects/pip.png';
 
 function Projects() {
   return (
@@ -23,6 +25,26 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: 'center', paddingBottom: '10px' }}>
+          <Col md={4} className='project-card'>
+            <ProjectCard
+              imgPath={react}
+              isBlog={false}
+              title='ReactJS Quiz'
+              description='I have created a ReactJS Quiz made with ReactJS. I used hooks.'
+              link='https://github.com/CaroD59/ReactJS-Quiz'
+            />
+          </Col>
+
+          <Col md={4} className='project-card'>
+            <ProjectCard
+              imgPath={pip}
+              isBlog={false}
+              title='FallOut Pip-Boy'
+              description='I have created a CSS project, it is a Pip-Boy, a famous item from FallOut game.'
+              link='https://github.com/CaroD59/Pip-Boy'
+            />
+          </Col>
+
           <Col md={4} className='project-card'>
             <ProjectCard
               imgPath={vault}
